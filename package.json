@@ -1,0 +1,23 @@
+{
+  "name": "codecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ca-tt/codecamp-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ca-tt/codecamp-learning/issues"
+  },
+  "homepage": "https://github.com/Ca-tt/codecamp-learning#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
