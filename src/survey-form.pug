@@ -1,0 +1,103 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    meta(
+      name='viewport'
+      content='width=device-width, initial-scale=1.0'
+    )
+    title Document
+
+  body: .container
+
+    section.header-section 
+
+      h1.site-heading freeCodeCamp Survey Form
+      h6.site-subheading Thank you for taking the time to help us improve the platform
+
+    form.form-section
+
+      label(for='name') Name
+      input#name(
+        type='text'
+        name='name'
+        placeholder='Enter your name'
+      )
+
+      label(for='email') Email
+      input#email(
+        type='email'
+        name='email'
+        placeholder='Enter your email'
+      )
+
+      label(for='age') Age (optional)
+      input#age(
+        type='number'
+        name='age'
+        placeholder='Age'
+        min=''
+        max=''
+      )
+
+      label(for='role') Which option best describes your current role?
+      select#role(name='role')
+        option(value="") Select current role
+        option(value="student") Student
+        option(value="full-time_job") Full-time Job
+        option(value="full-time_learner") Full-time Learner
+
+      label Would you recommend freeCodeCamp to a friend?
+      
+      input#yes(
+        type='radio'
+        name='yes'
+      )
+      label(for='yes') Definitely
+      input#maybe(
+        type='radio'
+        name='maybe'
+      )
+      label(for='yes') Maybe
+      input#no(
+        type='radio'
+        name='no'
+      )
+      label(for='no') Not sure
+
+      label(for='features') What is your favorite feature of freeCodeCamp?
+      select#features(name='features')
+        option(value="") Select an option
+        option(value="challenges") Challenges
+        option(value="projects") Projects
+        option(value="community") Community
+
+      label What would you like to see improved? (Check all that apply)
+      
+      input#front(
+        type='checkbox'
+        name='front-end'
+      )
+      label(for='front') Front-end Projects
+      input#back(
+        type='checkbox'
+        name='back'
+      )
+      label(for='front') Back-end Projects
+      input#data(
+        type='checkbox'
+        name='data'
+      )
+      label(for='data') Data Visualization
+
+      label(for='suggestions') Any comments or suggestions?
+      textearea#suggestions(
+        placeholder='Enter your comments here...'
+      )
+
+      button.btn(
+        type='submit'
+      ) Submit
+
+    script(src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js')
+  body
