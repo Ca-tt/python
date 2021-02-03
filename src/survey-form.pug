@@ -1,103 +1,127 @@
 doctype html
 html(lang='en')
-  head
-    meta(charset='UTF-8')
-    meta(
-      name='viewport'
-      content='width=device-width, initial-scale=1.0'
+head
+  meta(charset='UTF-8')
+  meta(
+    name='viewport'
+    content='width=device-width, initial-scale=1.0'
+  )
+  link(
+    rel="preconnect" 
+    href="https://fonts.gstatic.com"
+  )
+  //- Poppins fonts
+  link(
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap" 
+    rel="stylesheet"
+  )
+  //- own styles
+  link(
+    rel='stylesheet'
+    href='./sass/style.sass'
+  )
+  title Document
+
+body: .container
+
+  section.header-section 
+
+    h1#title.site-heading freeCodeCamp Survey Form
+    h6#description.site-subheading Thank you for taking the time to help us improve the platform
+
+  form#survey-form.form-section
+
+    label#name-label(for='name') Name
+    input#name(
+      type='text'
+      name='name'
+      placeholder='Enter your name'
+      required
     )
-    title Document
 
-  body: .container
+    label#email-label(for='email') Email
+    input#email(
+      type='email'
+      name='email'
+      placeholder='Enter your email'
+      required
+    )
 
-    section.header-section 
+    label#number-label(for='age') Age (optional)
+    input#number(
+      type='number'
+      name='age'
+      placeholder='Age'
+      min='1'
+      max='100'
+    )
 
-      h1.site-heading freeCodeCamp Survey Form
-      h6.site-subheading Thank you for taking the time to help us improve the platform
+    label(for='role') Which option best describes your current role?
+    select#dropdown(name='role')
+      option(value="") Select current role
+      option(value="student") Student
+      option(value="full-time_job") Full-time Job
+      option(value="full-time_learner") Full-time Learner
 
-    form.form-section
-
-      label(for='name') Name
-      input#name(
-        type='text'
-        name='name'
-        placeholder='Enter your name'
-      )
-
-      label(for='email') Email
-      input#email(
-        type='email'
-        name='email'
-        placeholder='Enter your email'
-      )
-
-      label(for='age') Age (optional)
-      input#age(
-        type='number'
-        name='age'
-        placeholder='Age'
-        min=''
-        max=''
-      )
-
-      label(for='role') Which option best describes your current role?
-      select#role(name='role')
-        option(value="") Select current role
-        option(value="student") Student
-        option(value="full-time_job") Full-time Job
-        option(value="full-time_learner") Full-time Learner
-
-      label Would you recommend freeCodeCamp to a friend?
-      
+    label Would you recommend freeCodeCamp to a friend?
+    
+    .input-group
       input#yes(
         type='radio'
         name='yes'
       )
       label(for='yes') Definitely
+    .input-group
       input#maybe(
         type='radio'
         name='maybe'
       )
       label(for='yes') Maybe
+    .input-group
       input#no(
         type='radio'
         name='no'
       )
       label(for='no') Not sure
 
-      label(for='features') What is your favorite feature of freeCodeCamp?
-      select#features(name='features')
-        option(value="") Select an option
-        option(value="challenges") Challenges
-        option(value="projects") Projects
-        option(value="community") Community
+    label(for='features') What is your favorite feature of freeCodeCamp?
+    select#features(name='features')
+      option(value="") Select an option
+      option(value="challenges") Challenges
+      option(value="projects") Projects
+      option(value="community") Community
 
-      label What would you like to see improved? (Check all that apply)
-      
+    label What would you like to see improved? (Check all that apply)
+    
+    .input-group
       input#front(
         type='checkbox'
         name='front-end'
       )
       label(for='front') Front-end Projects
+    .input-group
       input#back(
         type='checkbox'
         name='back'
       )
       label(for='front') Back-end Projects
+    .input-group
       input#data(
         type='checkbox'
         name='data'
       )
       label(for='data') Data Visualization
 
-      label(for='suggestions') Any comments or suggestions?
-      textearea#suggestions(
-        placeholder='Enter your comments here...'
-      )
+    label(for='suggestions') Any comments or suggestions?
+    textarea#suggestions(
+      placeholder='Enter your comments here...'
+      name='suggestions'
+      rows='4'
+      cols='50'
+    )
 
-      button.btn(
-        type='submit'
-      ) Submit
+    button#submit.btn(
+      type='submit'
+    ) Submit
 
-    script(src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js')
-  body
+  script(src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js')
