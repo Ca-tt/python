@@ -30,3 +30,19 @@ def greet(userLanguage):
 
 # print the greeting
 print(greet(userLanguage))
+
+
+# Better solution of the problem. But not the best
+while True:
+  entry = input('What\'s your language? (ru/en/fr): ')
+  if entry == 'ru':
+    print('Privet!')
+    break
+  elif entry == 'en':
+    print('Hello')
+    break
+  elif entry == 'fr':
+    print('Bonjour')
+    break
+  else:
+    entry = input('Please, pick up one of three options: (ru/en/fr) ')
