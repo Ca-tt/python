@@ -25,6 +25,7 @@ def find_top_artist(artist_list):
 
 def sort_top_artists(artist_list):
   sorted_music = {}
+  
   for i in range(len(artist_list)):
     key = find_top_artist(artist_list)[0]
     value = find_top_artist(artist_list)[1]
