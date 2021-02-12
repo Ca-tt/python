@@ -1,7 +1,7 @@
 import sys
 sys.path.append('../')
 
-# Split file into words
+# * Split file into words
 def split_file_into_words(filename):
 
   url = filename
@@ -27,7 +27,7 @@ def split_file_into_words(filename):
   return words_array
 #===
 
-# Make a value-key array (e.x for a future sorting) 
+# * Make a value-key array (e.x for a future sorting) 
 def create_value_key_array(array):
   value_key_array = []
 
@@ -38,11 +38,12 @@ def create_value_key_array(array):
   return value_key_array
 #===
 
-# Sort array by keys in a reverse order
+# * Sort array by keys in a reverse order
 def sort_array_reverse(array):
   array = sorted(array, reverse=True)
   return array
 
+# * Print key-values of array 
 def print_array_key_value(array):
   for key, value in array:
     print(key, '\t', value)
