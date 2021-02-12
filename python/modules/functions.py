@@ -42,3 +42,7 @@ def create_value_key_array(array):
 def sort_array_reverse(array):
   array = sorted(array, reverse=True)
   return array
+
+def print_array_key_value(array):
+  for key, value in array:
+    print(key, '\t', value)
