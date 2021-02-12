@@ -1,7 +1,7 @@
 import sys
 sys.path.append('../')
 
-from python.module.methods import (
+from python.modules.functions import (
   split_file_into_words,
   create_value_key_array, 
   sort_array_reverse
