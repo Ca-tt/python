@@ -27,11 +27,10 @@ def sort_top_artists(artist_list):
   sorted_music = {}
   
   for i in range(len(artist_list)):
-    key = find_top_artist(artist_list)[0]
-    value = find_top_artist(artist_list)[1]
+    top_artist, max_plays = find_top_artist(artist_list)
 
-    sorted_music[key] = value
-    artist_list.pop(key)
+    sorted_music[top_artist] = max_plays
+    artist_list.pop(top_artist)
   return sorted_music
 
 
