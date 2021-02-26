@@ -1,5 +1,4 @@
-# # To do
-# # sort music by play count
+# TODO: sort the music list by playing count
 
 data = {
     'RadioHead': 156,
