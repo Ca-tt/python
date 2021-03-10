@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Links
+  </title>
+ </head>
+ <body>
+  <a href="https://www.babypips.com/">
+   BabyPips
+  </a>
+  <a href="/news">
+   News
+  </a>
+  <a href="/trading">
+   Trading
+  </a>
+  <a href="/learn">
+   Education
+  </a>
+  <a href="/learn/forex">
+   <span>
+    How to Trade Forex
+   </span>
+  </a>
+  <a href="/quizzes">
+   <span>
+    Trading Quizzes
+   </span>
+  </a>
+  <a href="/forexpedia">
+   <span>
+    Forex Glossary
+   </span>
+  </a>
+  <a href="https://forums.babypips.com/">
+   Forums
+  </a>
+  <a href="/economic-calendar">
+   Calendar
+  </a>
+  <a href="/tools">
+   Tools
+  </a>
+  <a href="https://marketmilk.babypips.com/">
+   MarketMilk™
+  </a>
+  <a class="sign-in" href="/account/sign-in">
+   Sign In
+  </a>
+  <a class="join" href="/account/join">
+   Join
+  </a>
+  <a href="/account/sign-in">
+   Sign In
+  </a>
+  <a href="/account/join">
+   Join
+  </a>
+  <a href="/">
+   Home
+  </a>
+  <a href="https://marketmilk.babypips.com/">
+   MarketMilk™
+  </a>
+  <a href="/news">
+   News
+  </a>
+  <a href="/trading">
+   Trading
+  </a>
+  <a href="/trading/trade-ideas">
+   Trade Ideas
+  </a>
+  <a href="/trading/technical-analysis">
+   Technical Analysis
+  </a>
+  <a href="/trading/psychology">
+   Psychology
+  </a>
+  <a href="/trading/trading-systems">
+   Trading Systems
+  </a>
+  <a href="/trading/crypto">
+   Crypto
+  </a>
+  <a href="/learn">
+   Education
+  </a>
+  <a href="/learn/forex">
+   How to Trade Forex
+  </a>
+  <a href="/forexpedia">
+   Forex Glossary
+  </a>
+  <a href="/quizzes">
+   Trading Quizzes
+  </a>
+  <a href="https://forums.babypips.com/">
+   Forums
+  </a>
+  <a href="https://forums.babypips.com/c/beginner-questions">
+   Beginner Questions
+  </a>
+  <a href="https://forums.babypips.com/c/trading-systems">
+   Trading Systems
+  </a>
+  <a href="/economic-calendar">
+   Calendar
+  </a>
+  <a href="/economic-calendar">
+   Economic Calendar
+  </a>
+  <a href="/tools">
+   Tools
+  </a>
+  <a href="/tools/pivot-point-calculator">
+   Pivot Point Calculator
+  </a>
+  <a href="/tools/position-size-calculator">
+   Position Size Calculator
+  </a>
+  <a href="/tools/gain-loss-percentage-calculator">
+   Gain / Loss % Calculator
+  </a>
+  <a href="/tools/pip-value-calculator">
+   Pip Value Calculator
+  </a>
+  <a href="/tools/forex-regulation">
+   Regulatory Organizations
+  </a>
+  <a class="sign-in-button" href="/account/sign-in">
+   <strong>
+    Unlock Tracking
+   </strong>
+   , Sign In
+  </a>
+  <a class="start-link" href="/learn/forex/preschool">
+   Start Course
+  </a>
+  <a href="/learn/forex/preschool#what-is-forex">
+   What is Forex?
+  </a>
+  <a href="/learn/forex/preschool#how-to-trade-forex">
+   How Do You Trade Forex?
+  </a>
+  <a href="/learn/forex/preschool#when-can-you-trade-forex">
+   When Can You Trade Forex?
+  </a>
+  <a href="/learn/forex/preschool#who-trades-forex">
+   Who Trades Forex?
+  </a>
+  <a href="/learn/forex/preschool#why-trade-forex">
+   Why Trade Forex?
+  </a>
+  <a href="/learn/forex/preschool#margin-trading-101">
+   Margin Trading 101: Understand How Your Margin Account Works
+  </a>
+  <a class="start-link" href="/learn/forex/kindergarten">
+   Start Course
+  </a>
+  <a href="/learn/forex/kindergarten#choosing-a-broker">
+   Brokers 101
+  </a>
+  <a href="/learn/forex/kindergarten#three-types-of-analysis">
+   Three Types of Analysis
+  </a>
+  <a href="/learn/forex/kindergarten#types-of-charts">
+   Types of Charts
+  </a>
+  <a class="start-link" href="/learn/forex/elementary">
+   Start Course
+  </a>
+  <a href="/learn/forex/elementary#support-and-resistance-levels">
+   Support and Resistance Levels
+  </a>
+  <a href="/learn/forex/elementary#japanese-candle-sticks">
+   Japanese Candlesticks
+  </a>
+  <a href="/learn/forex/elementary#fibonacci">
+   Fibonacci
+  </a>
+  <a href="/learn/forex/elementary#moving-averages">
+   Moving Averages
+  </a>
+  <a href="/learn/forex/elementary#common-chart-indicators">
+   Popular Chart Indicators
+  </a>
+  <a class="start-link" href="/learn/forex/middle-school">
+   Start Course
+  </a>
+  <a href="/learn/forex/middle-school#oscillators-and-momentum-indicators">
+   Oscillators and Momentum Indicators
+  </a>
+  <a href="/learn/forex/middle-school#important-chart-patterns">
+   Important Chart Patterns
+  </a>
+  <a href="/learn/forex/middle-school#pivot-points">
+   Pivot Points
+  </a>
+  <a class="start-link" href="/learn/forex/summer-school">
+   Start Course
+  </a>
+  <a href="/learn/forex/summer-school#heikin-ashi">
+   Heikin Ashi
+  </a>
+  <a href="/learn/forex/summer-school#elliott-wave-theory">
+   Elliott Wave Theory
+  </a>
+  <a href="/learn/forex/summer-school#harmonic-price-patterns">
+   Harmonic Price Patterns
+  </a>
+  <a class="start-link" href="/learn/forex/high-school">
+   Start Course
+  </a>
+  <a href="/learn/forex/high-school#trading-divergences">
+   Trading Divergences
+  </a>
+  <a href="/learn/forex/high-school#market-environment">
+   Market Environment
+  </a>
+  <a href="/learn/forex/high-school#trading-breakouts-and-fakeouts">
+   Trading Breakouts and Fakeouts
+  </a>
+  <a href="/learn/forex/high-school#fundamental-analysis">
+   Fundamental Analysis
+  </a>
+  <a href="/learn/forex/high-school#currency-crosses">
+   Currency Crosses
+  </a>
+  <a href="/learn/forex/high-school#multiple-time-frame-analysis">
+   Multiple Time Frame Analysis
+  </a>
+  <a class="start-link" href="/learn/forex/undergraduate-freshman">
+   Start Course
+  </a>
+  <a href="/learn/forex/undergraduate-freshman#market-sentiment">
+   Market Sentiment
+  </a>
+  <a href="/learn/forex/undergraduate-freshman#trading-the-news">
+   Trading the News
+  </a>
+  <a href="/learn/forex/undergraduate-freshman#carry-trade">
+   Carry Trade
+  </a>
+  <a class="start-link" href="/learn/forex/undergraduate-sophomore">
+   Start Course
+  </a>
+  <a href="/learn/forex/undergraduate-sophomore#dollar-index">
+   The U.S. Dollar Index
+  </a>
+  <a href="/learn/forex/undergraduate-sophomore#intermarket-correlations">
+   Intermarket Correlations
+  </a>
+  <a href="/learn/forex/undergraduate-sophomore#using-equities-to-trade-fx">
+   Using Equities to Trade FX
+  </a>
+  <a href="/learn/forex/undergraduate-sophomore#country-profiles">
+   Country Profiles
+  </a>
+  <a class="start-link" href="/learn/forex/undergraduate-junior">
+   Start Course
+  </a>
+  <a href="/learn/forex/undergraduate-junior#developing-your-own-trading-plan">
+   Developing Your Own Trading Plan
+  </a>
+  <a href="/learn/forex/undergraduate-junior#which-type-of-trader-are-you">
+   Which Type of Trader Are You?
+  </a>
+  <a href="/learn/forex/undergraduate-junior#create-your-own-trading-system">
+   Create Your Own Trading System
+  </a>
+  <a href="/learn/forex/undergraduate-junior#keeping-a-trading-journal">
+   Keeping a Trading Journal
+  </a>
+  <a href="/learn/forex/undergraduate-junior#how-to-use-metatrader4">
+   How to Use MetaTrader 4
+  </a>
+  <a class="start-link" href="/learn/forex/undergraduate-senior">
+   Start Course
+  </a>
+  <a href="/learn/forex/undergraduate-senior#risk-management">
+   Risk Management
+  </a>
+  <a href="/learn/forex/undergraduate-senior#the-number-1-cause-of-death-of-forex-traders">
+   The Number 1 Cause of Death of Forex Traders
+  </a>
+  <a href="/learn/forex/undergraduate-senior#position-sizing">
+   Position Sizing
+  </a>
+  <a href="/learn/forex/undergraduate-senior#setting-stop-losses">
+   Setting Stop Losses
+  </a>
+  <a href="/learn/forex/undergraduate-senior#scaling-in-and-out">
+   Scaling In and Out
+  </a>
+  <a href="/learn/forex/undergraduate-senior#currency-correlations">
+   Currency Correlations
+  </a>
+  <a class="start-link" href="/learn/forex/graduation">
+   Start Course
+  </a>
+  <a href="/learn/forex/graduation#most-common-mistakes-new-traders-make">
+   The Most Common Trading Mistakes New Traders Make
+  </a>
+  <a href="/learn/forex/graduation#forex-trading-scams">
+   Forex Trading Scams
+  </a>
+  <a href="/learn/forex/graduation#binary-options-101">
+   Binary Options 101
+  </a>
+  <a href="/learn/forex/graduation#personality-quizzes">
+   Personality Quizzes
+  </a>
+  <a href="/learn/forex/graduation#graduation-speech">
+   Graduation Speech
+  </a>
+  <a href="/learn/forex">
+   How to Trade Forex
+  </a>
+  <a href="/quizzes">
+   Forex Quizzes
+  </a>
+  <a href="https://forums.babypips.com/">
+   Forex Forums
+  </a>
+  <a href="/forexpedia">
+   Forex Glossary
+  </a>
+  <a href="/learn/forex/what-is-margin-trading">
+   Forex Margin 101
+  </a>
+  <a href="/learn/forex/elementary">
+   Technical Analysis 101
+  </a>
+  <a href="/learn/forex/undergraduate-senior">
+   Risk Management 101
+  </a>
+  <a href="https://marketmilk.babypips.com/">
+   MarketMilk™
+  </a>
+  <a href="/economic-calendar">
+   Economic Calendar
+  </a>
+  <a href="/learn/forex/which-trading-style-is-best-for-you">
+   Trader Personality Test
+  </a>
+  <a href="/tools/position-size-calculator">
+   Position Size Calculator
+  </a>
+  <a href="/tools/gain-loss-percentage-calculator">
+   "Back to Breakeven" Calculator
+  </a>
+  <a href="/tools/pip-value-calculator">
+   Pip Value Calculator
+  </a>
+  <a href="/tools/pivot-point-calculator">
+   Pivot Point Calculator
+  </a>
+  <a href="/about">
+   About
+  </a>
+  <a href="/contact">
+   Contact
+  </a>
+  <a href="/advertise">
+   Advertise
+  </a>
+  <a href="/newsletter">
+   Newsletter
+  </a>
+  <a href="/testimonials">
+   Testimonials
+  </a>
+  <a href="https://www.babypips.com/faq">
+   FAQ
+  </a>
+  <a href="https://facebook.com/babypips" rel="noopener" target="_blank">
+   Facebook
+  </a>
+  <a href="https://instagram.com/babypips" rel="noopener" target="_blank">
+   Instagram
+  </a>
+  <a href="https://twitter.com/babypips" rel="noopener" target="_blank">
+   Twitter
+  </a>
+  <a href="/privacy">
+   Privacy Policy
+  </a>
+  <a href="/risk-disclosure">
+   Risk Disclosure
+  </a>
+  <a href="/terms-of-use">
+   Terms of Use
+  </a>
+ </body>
+</html>
