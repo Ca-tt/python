@@ -1,4 +1,4 @@
-file = open('txt/mbox-short.txt')
+file = open('../txt/mbox-short.txt')
 
 for line in file:
   if not line.startswith('From '):

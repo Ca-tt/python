@@ -22,7 +22,7 @@ desired_array = {
 # * Solution
 
 # //TODO add try-catch for a file opening
-file = open('modules/txt/mbox-short.txt')
+file = open('../txt/mbox-short.txt')
 
 user_db = {}
 
@@ -77,14 +77,3 @@ for line in file:
 
 for user, data in user_db.items():
   print(user, data)
-
-# print(user_db)
-
-  # # print(date)
-  # if email:
-  #   # Separate username from email
-  #   username = email[0].split('@')[0]
-  #   user_db[email[0]] = [username, index]
-  # if date:
-  #   print(date, username)
-  #   # user_db[username] = date
